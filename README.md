@@ -43,3 +43,11 @@ python DREAM5net1_FCV.py
 ```
 
 Finally, check output folder "results" for results. The csv file shows the mean and standard deviation of AUROC, MCC, F1, Recall, Precision  on this dataset.
+
+# File Description
+- `DUPLEXenvironment.yaml` / `Predictionenvironment.yaml`: Conda environment configuration files.
+- `DUPLEX-master/`: Contains the scripts for the DCR module.
+- `Prediction/`: Contains the scripts for the BRI module and GRN prediction across different benchmark datasets.
+
+# Contact
+If you have any questions about the code or the BMGRN model, please feel free to open an issue or contact us at: yez8366@gmail.com
